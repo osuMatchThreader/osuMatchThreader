@@ -6,7 +6,7 @@
 
     <groupId>com.github.osumatchthreader</groupId>
     <artifactId>osumatchthreader</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <assemblyJarName>osu!MatchThreader</assemblyJarName>
